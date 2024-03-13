@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**The-Ajinkya/The-Ajinkya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ajinkya, a passionate undergrad pursuing Computer Science Engineering at Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (IIITDM Jabalpur) 🎓
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Aspiring Full Stack Developer 
+- 💡 Interested in Web Development and Cybersecurity 
+- 🌐 Constantly exploring and learning new technologies.
+
+## Skills
+
+- 💻 Proficient in C, C++, Java, Python
+- 🌐 Web Technologies: HTML, CSS, JavaScript.
+- 🤖 Familiar with Cybersecurity.
+- 🔧 Tools: Git, GitHub, VS Code.
+
+Feel free to explore my repositories, and let's collaborate on exciting projects! 🌟
